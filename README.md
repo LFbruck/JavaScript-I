@@ -14,6 +14,11 @@ By the end of this course, you will be able to:
 - Write simple web programs in JavaScript.  
 - Implement decision-making and selection logic in JavaScript.  
 - Develop your first web programs manipulating the DOM with JavaScript.
+- Write JavaScript programs using arrays
+- Program loops/iterations in JavaScript
+- Create and use functions in JavaScript
+- Work with strings (text) and numbers in JavaScript
+- Find and fix bugs (errors) in JavaScript
 
 ---
 
